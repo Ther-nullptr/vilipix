@@ -4,4 +4,5 @@ A web crawler of pixiv, using scrapy. Very simple.
 ```bash
 $ cd vilipix
 $ scrapy crawl pixiv
+# or python -m scrapy crawl pixiv
 ```
